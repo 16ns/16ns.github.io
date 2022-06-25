@@ -56,5 +56,6 @@ Ver.1.0(2022.02)
 ### こだわり技術
 築堤に要した総人夫は16,107人余り。地震時の安全率が1.2を下回るため耐震対策が必要となり、2022年より概算工事費2億円、工期20ヶ月で改修工事が行われる。
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3213.7768821285727!2d138.17360871493986!3d36.341956980045566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe0228d661dbed379!2zMzbCsDIwJzMxLjEiTiAxMzjCsDEwJzMyLjkiRQ!5e0!3m2!1sja!2sjp!4v1656158688666!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ---
 2022 CC BY 4.0 [shioiri.jp](https://shioiri.jp)
