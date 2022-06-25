@@ -23,7 +23,7 @@ Ver.1.0(2022.02)
 ### 所在地
 長野県上田市手塚字滝沢
 
-(36°20'32.0"N 138°10'32.0"E)[https://goo.gl/maps/xvi3WmNdCzzozhgt6]
+[36°20'32.0"N 138°10'32.0"E](https://goo.gl/maps/xvi3WmNdCzzozhgt6)
 
 ### 水源
 滝の沢川・十人沢湧水・手塚新堰
