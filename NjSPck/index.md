@@ -24,7 +24,7 @@ Ver.1.0(2024.07) 発行枚数 100
 
 ### 所在地
 長野県上田市野倉・上田市前山
-[36°20'32.0"N 138°10'32.0"E](https://goo.gl/maps/xvi3WmNdCzzozhgt6)
+[36°19'41.0"N 138°10'09.0"E](https://maps.app.goo.gl/fms1iaXx5AsXpnGNA)
 
 ### 水源
 産川・向田堰・カジカ沢
