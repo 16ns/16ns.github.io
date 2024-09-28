@@ -1,6 +1,9 @@
 ---
 title: 西塩田遺族会からのお知らせ
 ---
+遺骨収集のほか、戦没者遺族等に対する援護施策の推進については厚生労働省のホームページに詳しい説明があります。ご参照ください。
+
+[ここをクリック](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/senbotsusha/index.html)
 
 ### サイパン島での体験
 
